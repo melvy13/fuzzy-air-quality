@@ -23,7 +23,7 @@ At line 139 onwards in `assignment_1.py` are test cases that can be input with d
 
 For example: `("A perfect day", 2, 25, 50)` represents a perfect day scenario with a PM2.5 pollutant concentration of 2 µg/m^3, a temperature of 25°C, and a relative humidity of 50%.
 
-Input as many test cases as you want and run the code - It will first produce 2 graphs in a separate window. These graphs visualizes the final output of the fuzzy system, one for air quality and one for recommendations. In the terminal are also the detailed text outputs for the test case. Closing both of the graphs (windows) will continue the execution of the code with the next test case, until all test case are run.
+Input as many test cases as you want and run the code - It will first produce 2 graphs in a separate window for the first test case. These graphs visualizes the final output of the fuzzy system, one for air quality and one for recommendations. In the terminal are also the detailed text outputs for the test case. Closing both of the graphs (windows) will continue the execution of the code with the next test case, until all test case are run.
 
 ## Output Format
 
